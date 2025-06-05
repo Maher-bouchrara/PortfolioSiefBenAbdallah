@@ -380,6 +380,68 @@ nav {
     font-size: 1.2rem;
 }
 
+/* Shine Container */
+.shine-container {
+    position: relative;
+    padding: 8px 15px;
+    background: linear-gradient(135deg, rgba(139, 92, 246, 0.1), rgba(239, 68, 68, 0.1));
+    border-radius: 12px;
+    overflow: hidden;
+    transition: all 0.3s ease;
+}
+
+.shine-container::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: linear-gradient(
+        45deg,
+        transparent,
+        rgba(139, 92, 246, 0.1),
+        rgba(239, 68, 68, 0.1),
+        transparent
+    );
+    transform: rotate(45deg);
+    animation: shine 3s infinite;
+    pointer-events: none;
+}
+
+.shine-container p {
+    position: relative;
+    color: #8b5cf6;
+    font-weight: 500;
+    font-size: 0.95rem;
+    margin: 0;
+    z-index: 1;
+}
+
+.contact-item:hover .shine-container {
+    background: linear-gradient(135deg, rgba(139, 92, 246, 0.2), rgba(239, 68, 68, 0.2));
+    transform: translateY(-2px);
+}
+
+.contact-item:hover .shine-container p {
+    color: #ef4444;
+}
+
+@keyframes shine {
+    0% {
+        transform: translateX(-100%) rotate(45deg);
+    }
+    20%, 100% {
+        transform: translateX(100%) rotate(45deg);
+    }
+}
+
+.contact-item h4 {
+    font-size: 1.1rem;
+    margin-bottom: 8px;
+    color: #ffffff;
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
     .nav-links {
