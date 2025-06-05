@@ -21,7 +21,7 @@ Welcome to the official portfolio of **Seif Ben Abdallah**, a passionate graphic
 
 Once deployed (e.g., on Vercel), the portfolio will be available here:
 
-👉 [https://your-vercel-link.vercel.app](https://seif-ben-abdallah.vercel.app)
+👉 [Live Preview](https://seif-ben-abdallah.vercel.app)
 
 ---
 
