@@ -6,15 +6,6 @@ Welcome to the official portfolio of **Seif Ben Abdallah**, a passionate graphic
 - 🎭 **Fun Work** – Personal creative projects
 - 💻 **Digital Work** – UI/UX and visual compositions
 
-## 📁 Structure
-├── index.html # Main portfolio page
-├── assets/
-│ ├── logos/ # Folder for logo images
-│ ├── fun-work/ # Folder for personal/fun projects
-│ └── digital-work/ # Folder for digital designs
-├── css/ # Stylesheets
-└── js/ # JavaScript files (if any)
-
 ---
 
 ## 🌐 Live Preview
