@@ -21,7 +21,7 @@ Welcome to the official portfolio of **Seif Ben Abdallah**, a passionate graphic
 
 Once deployed (e.g., on Vercel), the portfolio will be available here:
 
-👉 [https://your-vercel-link.vercel.app](https://your-vercel-link.vercel.app)
+👉 [https://your-vercel-link.vercel.app](https://seif-ben-abdallah.vercel.app)
 
 ---
 
@@ -37,7 +37,7 @@ This is a static portfolio designed for simplicity and responsiveness.
 
 ## 📸 Preview
 
-_Add screenshots of the site here once it's ready._
+![image](https://github.com/user-attachments/assets/0ed33a6c-fca6-4d52-b8d6-4462c39f2e34)
 
 ---
 
@@ -49,6 +49,6 @@ _Add screenshots of the site here once it's ready._
 
 ## 📬 Contact
 
-- **Instagram**: [@seif.designs](https://instagram.com/seif.designs)
+- **Instagram**: [@_seif_fpok_](https://www.instagram.com/_seif_fpok_/)
 - **Email**: `seif@example.com`
 
