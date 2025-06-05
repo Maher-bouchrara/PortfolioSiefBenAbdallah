@@ -50,5 +50,5 @@ This is a static portfolio designed for simplicity and responsiveness.
 ## 📬 Contact
 
 - **Instagram**: [@_seif_fpok_](https://www.instagram.com/_seif_fpok_/)
-- **Email**: `seif@example.com`
+- **Email**: `seifeddinebenabdallah16@gmail.com`
 
